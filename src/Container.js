@@ -5,8 +5,8 @@ class Container extends Component {
         return (
            <div>
                <div className ="container">
-          <div className ="row">
-            <div className ="col-lg-8 col-md-10 mx-auto">
+                <div className ="row">
+                    <div className ="col-lg-8 col-md-10 mx-auto">
               <div className ="post-preview">
                 <a href="post.html">
                   <h2 className ="post-title">
